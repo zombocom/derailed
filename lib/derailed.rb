@@ -1,0 +1,1 @@
+require 'derailed_benchmarks'
